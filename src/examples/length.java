@@ -4,7 +4,7 @@ public class length {
 
 	public static void main(String args[]) 
 	{
-		String isim="bulasýk";
+		String isim="bulasÃ½k";
 		int i;
 		
 		for(i=0;i<=isim.length()-1;i++) 
